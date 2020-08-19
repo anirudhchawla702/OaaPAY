@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203357887553",
+    "firebase_url": "https://oaaapay-d604f.firebaseio.com",
+    "project_id": "oaaapay-d604f",
+    "storage_bucket": "oaaapay-d604f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203357887553:android:c0a35734a777d30c71bac0",
+        "android_client_info": {
+          "package_name": "com.example.oaa_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203357887553-pgc93sgdpnlrdroh7uqgsspat7ie5946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_1wjbhof-OILeDV5uQ6jT1zti20gYQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203357887553-pgc93sgdpnlrdroh7uqgsspat7ie5946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
